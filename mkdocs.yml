@@ -1,10 +1,23 @@
-site_name: IdeaSphere docs
-site_url: https://docs.ideasphere.org
+site_name: IdeaSphere 文档中心
+# site_url: https://docs.ideasphere.org
 theme:
   name: material
   language: zh
   logo: /assets/logo.png
   favicon: /assets/favicon.ico
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - navigation.indexes
+
+nav:
+  - 首页: 
+    - index.md
+    - 英文（en_us）: Home_en.md
+  - 使用指南:
+    - user/index.md
+    - 安装指南: user/Install.md
+
 
 extra:
   homepage: https://ideasphere.org
