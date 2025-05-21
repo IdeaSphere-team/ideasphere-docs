@@ -1,5 +1,5 @@
 site_name: IdeaSphere 文档中心
-# site_url: https://docs.ideasphere.org
+site_url: https://docs.ideasphere.org
 theme:
   name: material
   language: zh
