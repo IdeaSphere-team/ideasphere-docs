@@ -3,4 +3,8 @@ site_url: https://docs.ideasphere.org
 theme:
   name: material
   language: zh
-  favicon: assets/logo.png
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
+extra:
+  homepage: https://ideasphere.org
