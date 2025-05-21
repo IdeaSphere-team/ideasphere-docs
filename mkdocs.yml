@@ -1,0 +1,7 @@
+site_name: IdeaSphere docs
+# site_url: https://docs.ideasphere.org
+theme:
+  name: material
+
+theme:
+  language: zh
